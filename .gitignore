@@ -1,0 +1,22 @@
+# Maven build target directory
+target/
+
+# Eclipse specific files and folders
+**/.project
+**/.classpath
+**/.settings
+.classpath
+.project
+.settings/
+
+# Netbeans specific files and folders
+**/nb-configuration.xml
+**/nbactions.xml
+**/nbactions*.xml
+
+# IntelliJ specific files and folders
+.idea
+*.iml
+
+# MAC Desktop Services Store 
+**/.DS_Store
